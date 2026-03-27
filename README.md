@@ -11,7 +11,8 @@ The longer you survive, the harder it gets.
 - Snake grows after eating food  
 - Collision detection (walls and self)  
 - Score tracking system  
-- Game over condition  
+- Game over condition
+- High Score System
 
 ---
 
